@@ -1,0 +1,10 @@
+D:\C#Course\Lesson2_Homework\Task7\bin\Debug\Task7.exe.config
+D:\C#Course\Lesson2_Homework\Task7\bin\Debug\Task7.exe
+D:\C#Course\Lesson2_Homework\Task7\bin\Debug\Task7.pdb
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.Form1.resources
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.Properties.Resources.resources
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.exe
+D:\C#Course\Lesson2_Homework\Task7\obj\Debug\Task7.pdb
