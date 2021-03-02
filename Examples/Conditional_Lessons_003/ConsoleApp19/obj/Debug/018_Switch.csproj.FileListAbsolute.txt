@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp19\obj\Debug\ConsoleApp19.pdb

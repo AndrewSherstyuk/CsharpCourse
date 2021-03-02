@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp17\obj\Debug\016_Switch.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

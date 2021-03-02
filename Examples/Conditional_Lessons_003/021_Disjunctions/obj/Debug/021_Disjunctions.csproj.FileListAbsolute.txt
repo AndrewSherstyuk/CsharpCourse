@@ -1,0 +1,11 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\bin\Debug\021_Disjunctions.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\bin\Debug\021_Disjunctions.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\bin\Debug\021_Disjunctions.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\obj\Debug\021_Disjunctions.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\obj\Debug\021_Disjunctions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\bin\Debug\021_Disjunctions.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\bin\Debug\021_Disjunctions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\bin\Debug\021_Disjunctions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\obj\Debug\021_Disjunctions.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\obj\Debug\021_Disjunctions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\021_Disjunctions\obj\Debug\021_Disjunctions.pdb

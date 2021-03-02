@@ -1,0 +1,12 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\bin\Debug\020_Conjunction.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\bin\Debug\020_Conjunction.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\bin\Debug\020_Conjunction.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\obj\Debug\020_Conjunction.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\obj\Debug\020_Conjunction.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\obj\Debug\020_Conjunction.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\bin\Debug\020_Conjunction.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\bin\Debug\020_Conjunction.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\bin\Debug\020_Conjunction.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\obj\Debug\020_Conjunction.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\obj\Debug\020_Conjunction.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\020_Conjunction\obj\Debug\020_Conjunction.pdb

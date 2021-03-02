@@ -1,0 +1,12 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp9\obj\Debug\013_Ternary_operator.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp9\obj\Debug\013_Ternary_operator.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\ConsoleApp9\obj\Debug\ConsoleApp9.pdb

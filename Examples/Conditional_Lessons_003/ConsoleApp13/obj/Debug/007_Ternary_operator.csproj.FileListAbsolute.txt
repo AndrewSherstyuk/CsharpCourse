@@ -1,0 +1,5 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

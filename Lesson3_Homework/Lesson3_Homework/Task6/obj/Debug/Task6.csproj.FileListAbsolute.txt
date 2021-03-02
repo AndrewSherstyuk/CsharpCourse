@@ -1,0 +1,7 @@
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\bin\Debug\Task6.exe.config
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\bin\Debug\Task6.exe
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\bin\Debug\Task6.pdb
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\obj\Debug\Task6.exe
+D:\C#Course\Lesson3_Homework\Lesson3_Homework\Task6\obj\Debug\Task6.pdb

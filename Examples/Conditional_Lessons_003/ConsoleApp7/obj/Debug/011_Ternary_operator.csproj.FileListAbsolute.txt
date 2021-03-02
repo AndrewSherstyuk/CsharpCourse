@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp7\obj\Debug\011_Ternary_operator.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\ConsoleApp7\bin\Debug\ConsoleApp7.pdb

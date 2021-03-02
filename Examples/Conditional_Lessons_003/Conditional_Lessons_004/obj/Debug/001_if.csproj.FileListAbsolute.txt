@@ -1,0 +1,13 @@
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\bin\Debug\Conditional_Lessons_004.exe.config
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\bin\Debug\Conditional_Lessons_004.exe
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\bin\Debug\Conditional_Lessons_004.pdb
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\001_if.csprojResolveAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\001_if.csproj.CoreCompileInputs.cache
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\Conditional_Lessons_004.exe
+E:\ITEA - Базовый курс по С#\004_Условные конструкции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\Conditional_Lessons_004.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\Conditional_Lessons_004\bin\Debug\Conditional_Lessons_004.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\Conditional_Lessons_004\bin\Debug\Conditional_Lessons_004.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\Conditional_Lessons_004\bin\Debug\Conditional_Lessons_004.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\001_if.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\Conditional_Lessons_004.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\Conditional_Lessons_004\obj\Debug\Conditional_Lessons_004.pdb

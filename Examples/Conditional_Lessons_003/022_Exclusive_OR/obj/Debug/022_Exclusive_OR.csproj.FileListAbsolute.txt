@@ -1,0 +1,11 @@
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\bin\Debug\022_Exclusive_OR.exe.config
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\bin\Debug\022_Exclusive_OR.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\bin\Debug\022_Exclusive_OR.pdb
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\obj\Debug\022_Exclusive_OR.exe
+D:\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\obj\Debug\022_Exclusive_OR.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\bin\Debug\022_Exclusive_OR.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\bin\Debug\022_Exclusive_OR.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\bin\Debug\022_Exclusive_OR.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\obj\Debug\022_Exclusive_OR.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\obj\Debug\022_Exclusive_OR.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\004_Условные конструкции_&_Логические_операции\Conditional_Lessons_004\022_Exclusive_OR\obj\Debug\022_Exclusive_OR.pdb
