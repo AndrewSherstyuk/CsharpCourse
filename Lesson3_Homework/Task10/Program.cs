@@ -74,7 +74,7 @@ namespace Task10
                 }                
             }
 
-            goto Start;
+        goto Start;
         }
     }
 }
