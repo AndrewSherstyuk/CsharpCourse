@@ -29,8 +29,11 @@ namespace Task04
             do
             {
                 yearCounter++;
+
                 sum = sum + (sum / 100) * percent;
-                Console.WriteLine($"After year {yearCounter} you get {sum}");                
+
+                Console.WriteLine($"After year {yearCounter} you get {sum}");   
+                
                 years--;
             }
             while (years >= 1);

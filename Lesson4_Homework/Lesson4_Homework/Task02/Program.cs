@@ -13,11 +13,11 @@ namespace Task02
             for (int i = 1; i <= 9; i++)
             {
                 Console.WriteLine($"{i} * 3 = {i * 3}");
-            }
-
-            int a = 1;
+            }           
 
             Console.WriteLine("\n");
+
+            int a = 1;
 
             while (a <= 9)
             {
