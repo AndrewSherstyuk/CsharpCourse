@@ -10,8 +10,8 @@ namespace Task10
     {
         static void Main(string[] args)
         {
-        Start:
-
+        
+        Start: 
             Console.WriteLine("\nPlease enter operand1. Use comma as the decimal point");
 
             double operand1 = Convert.ToDouble(Console.ReadLine());
@@ -20,11 +20,13 @@ namespace Task10
 
             double operand2 = Convert.ToDouble(Console.ReadLine());
 
+        SelectOperation:
+
             Console.WriteLine("Please select the operation to apply to operand1 and operand2. \nType \"+\" for SUM, \"-\" for SUBSTRACTION, \"*\" for MULTIPLICATION and \"/\" for DIVISION");
 
             char operation = Convert.ToChar(Console.ReadLine());
 
-            if (operation != 0)
+            if (operation != '0')
             {
                 switch (operation)
                 {
@@ -58,10 +60,10 @@ namespace Task10
                         }
                     default:
                         {
-                            Console.WriteLine("Please enter \'+\', \'-\', \'*\', \'/\' to perform an operation, or \'0\' for exit");
-                            break;
+                            goto SelectOperation;
                         }
                 }
+
                 goto Start;
             }
 
