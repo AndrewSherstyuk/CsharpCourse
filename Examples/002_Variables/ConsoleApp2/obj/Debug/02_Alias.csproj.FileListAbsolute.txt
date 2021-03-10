@@ -1,0 +1,6 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp2\bin\Debug\02_Alias.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp2\bin\Debug\02_Alias.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp2\bin\Debug\02_Alias.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp2\obj\Debug\02_Alias.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp2\obj\Debug\02_Alias.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp2\obj\Debug\02_Alias.pdb

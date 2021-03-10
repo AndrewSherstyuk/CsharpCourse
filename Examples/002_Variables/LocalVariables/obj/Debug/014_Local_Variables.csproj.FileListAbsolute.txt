@@ -1,0 +1,10 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\bin\Debug\LocalVariables.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\bin\Debug\LocalVariables.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\bin\Debug\LocalVariables.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\obj\Debug\LocalVariables.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\obj\Debug\LocalVariables.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\bin\Debug\LocalVariables.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\bin\Debug\LocalVariables.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\bin\Debug\LocalVariables.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\obj\Debug\LocalVariables.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\LocalVariables\obj\Debug\LocalVariables.pdb

@@ -1,0 +1,5 @@
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\011_Methods\bin\Debug\011_Methods.exe.config
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\011_Methods\bin\Debug\011_Methods.exe
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\011_Methods\bin\Debug\011_Methods.pdb
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\011_Methods\obj\Debug\011_Methods.exe
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\011_Methods\obj\Debug\011_Methods.pdb

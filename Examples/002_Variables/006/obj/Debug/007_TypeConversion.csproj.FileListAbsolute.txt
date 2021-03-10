@@ -1,0 +1,11 @@
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\bin\Debug\006.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\bin\Debug\006.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\bin\Debug\006.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\obj\Debug\006.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\obj\Debug\006.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\obj\Debug\007_TypeConversion.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\bin\Debug\006.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\bin\Debug\006.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\bin\Debug\006.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\obj\Debug\006.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\006\obj\Debug\006.pdb

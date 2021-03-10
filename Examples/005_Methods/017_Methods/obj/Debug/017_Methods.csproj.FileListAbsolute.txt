@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\006_Методы\006_Methods\017_Methods\bin\Debug\017_Methods.exe.config
+D:\ITEA - Базовый курс по С#\006_Методы\006_Methods\017_Methods\bin\Debug\017_Methods.exe
+D:\ITEA - Базовый курс по С#\006_Методы\006_Methods\017_Methods\bin\Debug\017_Methods.pdb
+D:\ITEA - Базовый курс по С#\006_Методы\006_Methods\017_Methods\obj\Debug\017_Methods.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\006_Методы\006_Methods\017_Methods\obj\Debug\017_Methods.exe
+D:\ITEA - Базовый курс по С#\006_Методы\006_Methods\017_Methods\obj\Debug\017_Methods.pdb

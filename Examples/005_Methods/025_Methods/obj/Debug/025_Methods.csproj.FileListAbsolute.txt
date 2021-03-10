@@ -1,0 +1,10 @@
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\bin\Debug\025_Methods.exe.config
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\bin\Debug\025_Methods.exe
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\bin\Debug\025_Methods.pdb
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\obj\Debug\025_Methods.exe
+E:\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\obj\Debug\025_Methods.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\bin\Debug\025_Methods.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\bin\Debug\025_Methods.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\bin\Debug\025_Methods.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\obj\Debug\025_Methods.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\006_Методы\006_Methods\025_Methods\obj\Debug\025_Methods.pdb

@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\018_Array\bin\Debug\018_Array.exe.config
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\018_Array\bin\Debug\018_Array.exe
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\018_Array\bin\Debug\018_Array.pdb
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\018_Array\obj\Debug\018_Array_sum.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\018_Array\obj\Debug\018_Array.exe
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\018_Array\obj\Debug\018_Array.pdb

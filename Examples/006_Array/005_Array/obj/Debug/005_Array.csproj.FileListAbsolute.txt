@@ -1,0 +1,16 @@
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.exe.config
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.exe
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.pdb
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.exe
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.pdb
+E:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.exe.config
+E:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.exe
+E:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.pdb
+E:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.exe
+E:\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\bin\Debug\005_Array.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\007_Массивы\007_Array\005_Array\obj\Debug\005_Array.csprojAssemblyReference.cache

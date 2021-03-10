@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\bin\Debug\022_Checked.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\bin\Debug\022_Checked.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\bin\Debug\022_Checked.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\obj\Debug\022_Checked.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\obj\Debug\022_Checked.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\obj\Debug\022_Checked.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\bin\Debug\022_Checked.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\bin\Debug\022_Checked.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\bin\Debug\022_Checked.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\obj\Debug\022_Checked.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\obj\Debug\022_Checked.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Checked\obj\Debug\022_Checked.pdb

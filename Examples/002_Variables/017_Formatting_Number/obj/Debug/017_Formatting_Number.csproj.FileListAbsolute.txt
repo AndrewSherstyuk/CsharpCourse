@@ -1,0 +1,17 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\bin\Debug\017_Formatting_Number.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\017_Formatting_Number\obj\Debug\017_Formatting_Number.pdb

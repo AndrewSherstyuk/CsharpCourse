@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\bin\Debug\022_Unchecked.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\bin\Debug\022_Unchecked.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\bin\Debug\022_Unchecked.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\obj\Debug\022_Unchecked.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\obj\Debug\022_Unchecked.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\obj\Debug\023_Unchecked.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\bin\Debug\022_Unchecked.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\bin\Debug\022_Unchecked.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\bin\Debug\022_Unchecked.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\obj\Debug\023_Unchecked.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\obj\Debug\022_Unchecked.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\022_Unchecked\obj\Debug\022_Unchecked.pdb

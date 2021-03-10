@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\obj\Debug\003_Types.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\obj\Debug\003_Types.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,10 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\bin\Debug\026_Comparison.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\bin\Debug\026_Comparison.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\bin\Debug\026_Comparison.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\obj\Debug\026_Comparison.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\obj\Debug\026_Comparison.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\bin\Debug\026_Comparison.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\bin\Debug\026_Comparison.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\bin\Debug\026_Comparison.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\obj\Debug\026_Comparison.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\026_Comparison\obj\Debug\026_Comparison.pdb

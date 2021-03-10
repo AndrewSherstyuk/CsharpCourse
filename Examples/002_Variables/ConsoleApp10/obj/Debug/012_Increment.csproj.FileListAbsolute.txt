@@ -1,0 +1,10 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

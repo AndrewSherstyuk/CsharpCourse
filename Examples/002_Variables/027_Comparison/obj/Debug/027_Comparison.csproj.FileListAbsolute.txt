@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\bin\Debug\027_Comparison.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\bin\Debug\027_Comparison.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\bin\Debug\027_Comparison.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\obj\Debug\027_Comparison.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\obj\Debug\027_Comparison.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\obj\Debug\027_Comparison.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\bin\Debug\027_Comparison.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\bin\Debug\027_Comparison.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\bin\Debug\027_Comparison.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\obj\Debug\027_Comparison.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\obj\Debug\027_Comparison.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\027_Comparison\obj\Debug\027_Comparison.pdb

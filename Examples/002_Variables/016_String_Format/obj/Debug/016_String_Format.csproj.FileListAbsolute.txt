@@ -1,0 +1,10 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\bin\Debug\016_String_Format.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\bin\Debug\016_String_Format.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\bin\Debug\016_String_Format.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\obj\Debug\016_String_Format.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\obj\Debug\016_String_Format.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\bin\Debug\016_String_Format.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\bin\Debug\016_String_Format.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\bin\Debug\016_String_Format.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\obj\Debug\016_String_Format.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\016_String_Format\obj\Debug\016_String_Format.pdb

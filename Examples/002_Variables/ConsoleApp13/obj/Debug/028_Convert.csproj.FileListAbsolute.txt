@@ -1,0 +1,11 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp13\obj\Debug\028_Convert.csprojAssemblyReference.cache

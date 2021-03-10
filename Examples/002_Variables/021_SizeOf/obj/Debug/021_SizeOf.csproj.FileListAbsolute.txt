@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\bin\Debug\021_SizeOf.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\bin\Debug\021_SizeOf.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\bin\Debug\021_SizeOf.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\obj\Debug\021_SizeOf.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\obj\Debug\021_SizeOf.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\obj\Debug\021_SizeOf.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\bin\Debug\021_SizeOf.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\bin\Debug\021_SizeOf.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\bin\Debug\021_SizeOf.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\obj\Debug\021_SizeOf.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\obj\Debug\021_SizeOf.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\021_SizeOf\obj\Debug\021_SizeOf.pdb

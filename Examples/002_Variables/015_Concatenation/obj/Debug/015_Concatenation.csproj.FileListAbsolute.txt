@@ -1,0 +1,16 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\bin\Debug\015_Concatenation.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Базовый курс по С#\002_Типы данных\Variables\015_Concatenation\obj\Debug\015_Concatenation.pdb

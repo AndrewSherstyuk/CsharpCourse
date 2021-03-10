@@ -1,0 +1,12 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\bin\Debug\018_Get_Type.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\bin\Debug\018_Get_Type.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\bin\Debug\018_Get_Type.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\obj\Debug\018_Get_Type.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\obj\Debug\018_Get_Type.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\obj\Debug\018_Get_Type.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\bin\Debug\018_Get_Type.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\bin\Debug\018_Get_Type.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\bin\Debug\018_Get_Type.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\obj\Debug\018_Get_Type.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\obj\Debug\018_Get_Type.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\018_Get_Type\obj\Debug\018_Get_Type.pdb

@@ -1,0 +1,12 @@
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\bin\Debug\019_Dynamic.exe.config
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\bin\Debug\019_Dynamic.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\bin\Debug\019_Dynamic.pdb
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\obj\Debug\020_Dynamic.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\obj\Debug\019_Dynamic.exe
+D:\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\obj\Debug\019_Dynamic.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\bin\Debug\019_Dynamic.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\bin\Debug\019_Dynamic.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\bin\Debug\019_Dynamic.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\obj\Debug\020_Dynamic.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\obj\Debug\019_Dynamic.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\002_Типы данных\Variables\019_Dynamic\obj\Debug\019_Dynamic.pdb

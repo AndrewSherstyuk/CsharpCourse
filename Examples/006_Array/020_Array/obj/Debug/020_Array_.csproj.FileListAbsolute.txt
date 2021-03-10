@@ -1,0 +1,5 @@
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\020_Array\bin\Debug\020_Array.exe.config
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\020_Array\bin\Debug\020_Array.exe
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\020_Array\bin\Debug\020_Array.pdb
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\020_Array\obj\Debug\020_Array.exe
+D:\ITEA - Базовый курс по С#\007_Массивы\007_Array\020_Array\obj\Debug\020_Array.pdb

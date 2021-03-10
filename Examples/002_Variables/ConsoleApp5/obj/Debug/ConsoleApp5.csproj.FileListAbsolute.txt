@@ -1,0 +1,6 @@
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\ITEA - Базовый курс по С#\002_Типы данных\Variables\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
