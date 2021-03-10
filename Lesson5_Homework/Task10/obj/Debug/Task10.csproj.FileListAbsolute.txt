@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\bin\Debug\Task10.exe.config
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\bin\Debug\Task10.exe
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\bin\Debug\Task10.pdb
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\obj\Debug\Task10.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\obj\Debug\Task10.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\obj\Debug\Task10.exe
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task10\obj\Debug\Task10.pdb

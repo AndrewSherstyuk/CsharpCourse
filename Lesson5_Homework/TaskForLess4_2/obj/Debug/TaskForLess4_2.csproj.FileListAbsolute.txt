@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\bin\Debug\TaskForLess4_2.exe.config
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\bin\Debug\TaskForLess4_2.exe
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\bin\Debug\TaskForLess4_2.pdb
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\obj\Debug\TaskForLess4_2.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\obj\Debug\TaskForLess4_2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\obj\Debug\TaskForLess4_2.exe
+C:\Users\Andrew\source\repos\Lesson5_Homework\TaskForLess4_2\obj\Debug\TaskForLess4_2.pdb

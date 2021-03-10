@@ -1,0 +1,14 @@
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\obj\Debug\Task11.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\obj\Debug\Task11.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\bin\Debug\Task11.exe.config
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\bin\Debug\Task11.exe
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\bin\Debug\Task11.pdb
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\obj\Debug\Task11.exe
+C:\Users\Andrew\source\repos\Lesson5_Homework\Task11\obj\Debug\Task11.pdb
+D:\C#Course\Lesson5_Homework\Task11\bin\Debug\Task11.exe.config
+D:\C#Course\Lesson5_Homework\Task11\bin\Debug\Task11.exe
+D:\C#Course\Lesson5_Homework\Task11\bin\Debug\Task11.pdb
+D:\C#Course\Lesson5_Homework\Task11\obj\Debug\Task11.csprojAssemblyReference.cache
+D:\C#Course\Lesson5_Homework\Task11\obj\Debug\Task11.csproj.CoreCompileInputs.cache
+D:\C#Course\Lesson5_Homework\Task11\obj\Debug\Task11.exe
+D:\C#Course\Lesson5_Homework\Task11\obj\Debug\Task11.pdb
