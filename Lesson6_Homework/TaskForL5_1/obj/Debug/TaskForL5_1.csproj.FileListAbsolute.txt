@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\obj\Debug\TaskForL5_1.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\bin\Debug\TaskForL5_1.exe.config
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\bin\Debug\TaskForL5_1.exe
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\bin\Debug\TaskForL5_1.pdb
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\obj\Debug\TaskForL5_1.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\obj\Debug\TaskForL5_1.exe
+C:\Users\Andrew\source\repos\Lesson6_Homework\TaskForL5_1\obj\Debug\TaskForL5_1.pdb
