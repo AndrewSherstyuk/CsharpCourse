@@ -1,0 +1,12 @@
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\bin\Debug\017_ClassArray.exe.config
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\bin\Debug\017_ClassArray.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\bin\Debug\017_ClassArray.pdb
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\obj\Debug\017_ClassArray.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\obj\Debug\017_ClassArray.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\obj\Debug\017_ClassArray.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\bin\Debug\017_ClassArray.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\bin\Debug\017_ClassArray.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\bin\Debug\017_ClassArray.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\obj\Debug\017_ClassArray.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\obj\Debug\017_ClassArray.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\017_ClassArray\obj\Debug\017_ClassArray.pdb

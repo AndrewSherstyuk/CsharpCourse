@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\013_Classes\bin\Debug\013_Classes.exe.config
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\013_Classes\bin\Debug\013_Classes.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\013_Classes\bin\Debug\013_Classes.pdb
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\013_Classes\obj\Debug\013_Classes.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\013_Classes\obj\Debug\013_Classes.pdb
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\013_Classes\obj\Debug\013_ClassesArgument.csprojAssemblyReference.cache

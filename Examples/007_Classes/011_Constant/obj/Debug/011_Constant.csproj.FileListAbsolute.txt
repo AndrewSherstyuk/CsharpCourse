@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\011_Constant\bin\Debug\011_Constant.exe.config
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\011_Constant\bin\Debug\011_Constant.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\011_Constant\bin\Debug\011_Constant.pdb
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\011_Constant\obj\Debug\011_Constant.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\011_Constant\obj\Debug\011_Constant.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\011_Constant\obj\Debug\011_Constant.pdb

@@ -1,0 +1,14 @@
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\018_ClassFieldArray.exe.config
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\018_ClassFieldArray.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\018_ClassFieldArray.pdb
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.exe
+D:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\018_ClassFieldArray.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\018_ClassFieldArray.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\018_ClassFieldArray.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\bin\Debug\SmallBasicLibrary.dll
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\018_ClassFieldArray\obj\Debug\018_ClassFieldArray.csproj.CopyComplete

@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\bin\Debug\007_Classes.exe.config
+E:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\bin\Debug\007_Classes.exe
+E:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\bin\Debug\007_Classes.pdb
+E:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\obj\Debug\007_Constructors.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\obj\Debug\007_Classes.exe
+E:\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\obj\Debug\007_Classes.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\bin\Debug\007_Classes.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\bin\Debug\007_Classes.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\bin\Debug\007_Classes.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\obj\Debug\007_Constructors.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\obj\Debug\007_Classes.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\008_Введение в ООП. Понятия классов и объектов\008_Classes\007_Classes\obj\Debug\007_Classes.pdb
