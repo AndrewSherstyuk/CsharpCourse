@@ -18,16 +18,16 @@ namespace Task5
             Point F = new Point(5, 1, 'F');
 
             Figure square = new Figure(A, B, C, D);
-            Console.WriteLine($"Square ABCD perimeter equals to: {Math.Round(square.perimeterCalc(), 2)}");
+            Console.WriteLine($"Square {square.Name} perimeter equals to: {Math.Round(square.PerimeterCalc(), 2)}");
 
             Figure rectangle = new Figure(A, B, E, F);
-            Console.WriteLine($"Rectangle ABEB perimeter equals to: {Math.Round(rectangle.perimeterCalc(), 2)}");
+            Console.WriteLine($"Rectangle {rectangle.Name} perimeter equals to: {Math.Round(rectangle.PerimeterCalc(), 2)}");
 
             Figure triangle1 = new Figure(A, B, F);
-            Console.WriteLine($"Triable ABF perimeters equals to: {Math.Round(triangle1.perimeterCalc(), 2)}");
+            Console.WriteLine($"Triable {triangle1.Name} perimeters equals to: {Math.Round(triangle1.PerimeterCalc(), 2)}");
 
             Figure triangle2 = new Figure(A, B, E);
-            Console.WriteLine($"Triable ABE perimeters equals to: {Math.Round(triangle2.perimeterCalc(), 2)}");
+            Console.WriteLine($"Triable {triangle2.Name} perimeters equals to: {Math.Round(triangle2.PerimeterCalc(), 2)}");
 
             Console.ReadKey();
         }
@@ -95,17 +95,28 @@ namespace Task5
 
     class Figure
     {
-        Point point = new Point();
-
         private Point[] points;
 
         private string name;
 
-        public double perimeter;        
+        public string Name
+        {
+            set
+            {
+                name = value;
+            }
+            get
+            {
+                return name;
+            }
+        }
+
+        private double perimeter;
 
         public Figure(Point point1, Point point2, Point point3)
         {
             points = new Point[3];
+            name = String.Concat(point1.PointName, point2.PointName, point3.PointName);
             points[0] = point1;
             points[1] = point2;
             points[2] = point3;
@@ -114,31 +125,30 @@ namespace Task5
         public Figure(Point point1, Point point2, Point point3, Point point4) 
         {
             points = new Point[4];
+            name = String.Concat(point1.PointName, point2.PointName, point3.PointName, point4.PointName);
             points[0] = point1;
             points[1] = point2;
             points[2] = point3;
             points[3] = point4;
         }
 
-        private double lengthCalc(Point a, Point b)
+        private double LengthCalc(Point a, Point b)
         {     
             return Math.Sqrt(Math.Pow((a.X - b.X), 2) + Math.Pow((a.Y - b.Y), 2));
         }
 
-        public double perimeterCalc()
+        public double PerimeterCalc()
         {
-            double p = lengthCalc(points[0], points[points.Length - 1]);
+            double p = LengthCalc(points[0], points[points.Length - 1]);
             
             for (int i = 0; i < points.Length - 1; i++)
             {                
-                p = p + lengthCalc(points[i], points[i + 1]);                
+                p = p + LengthCalc(points[i], points[i + 1]);                
             }
 
             perimeter = p;
 
             return perimeter;
         }
-
-        
     }
 }
