@@ -1,0 +1,19 @@
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.exe.config
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.exe
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.pdb
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.exe
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.exe.config
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\bin\Debug\001_Inheritance.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.csprojAssemblyReference.cache
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.csproj.CoreCompileInputs.cache
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\001_Inheritance\obj\Debug\001_Inheritance.pdb

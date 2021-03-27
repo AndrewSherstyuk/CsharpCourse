@@ -1,0 +1,17 @@
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\006_Static_Сonstructor.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\006_Static_Сonstructor.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

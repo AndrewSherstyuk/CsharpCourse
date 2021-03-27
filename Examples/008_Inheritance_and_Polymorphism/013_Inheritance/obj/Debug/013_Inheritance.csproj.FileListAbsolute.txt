@@ -1,0 +1,5 @@
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\013_Inheritance\bin\Debug\013_Inheritance.exe.config
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\013_Inheritance\bin\Debug\013_Inheritance.exe
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\013_Inheritance\bin\Debug\013_Inheritance.pdb
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\013_Inheritance\obj\Debug\013_Inheritance.exe
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\013_Inheritance\obj\Debug\013_Inheritance.pdb

@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\bin\Debug\007_Inheritance.exe.config
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\bin\Debug\007_Inheritance.exe
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\bin\Debug\007_Inheritance.pdb
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\obj\Debug\007_Inheritance.exe
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\obj\Debug\007_Inheritance.pdb
+E:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\obj\Debug\007_Inheritance.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\bin\Debug\007_Inheritance.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\bin\Debug\007_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\bin\Debug\007_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\obj\Debug\007_Inheritance.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\obj\Debug\007_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\007_Inheritance\obj\Debug\007_Inheritance.pdb

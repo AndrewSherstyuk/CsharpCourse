@@ -1,0 +1,10 @@
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\bin\Debug\014_Interfaces.exe.config
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\bin\Debug\014_Interfaces.exe
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\bin\Debug\014_Interfaces.pdb
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\obj\Debug\014_Interfaces.exe
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\obj\Debug\014_Interfaces.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\bin\Debug\014_Interfaces.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\bin\Debug\014_Interfaces.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\bin\Debug\014_Interfaces.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\obj\Debug\014_Interfaces.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\014_Interfaces\obj\Debug\014_Interfaces.pdb

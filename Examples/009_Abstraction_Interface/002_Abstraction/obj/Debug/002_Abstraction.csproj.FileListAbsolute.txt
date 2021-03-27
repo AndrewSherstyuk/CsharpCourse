@@ -1,0 +1,5 @@
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\002_Abstraction\bin\Debug\002_Abstraction.exe.config
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\002_Abstraction\bin\Debug\002_Abstraction.exe
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\002_Abstraction\bin\Debug\002_Abstraction.pdb
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\002_Abstraction\obj\Debug\002_Abstraction.exe
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\002_Abstraction\obj\Debug\002_Abstraction.pdb

@@ -1,0 +1,11 @@
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\bin\Debug\007_Static.exe.config
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\bin\Debug\007_Static.exe
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\bin\Debug\007_Static.pdb
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\obj\Debug\007_Static.exe
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\obj\Debug\007_Static.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\bin\Debug\007_Static.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\bin\Debug\007_Static.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\bin\Debug\007_Static.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\obj\Debug\007_Static.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\obj\Debug\007_Static.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\007_Static\obj\Debug\007_Static.pdb

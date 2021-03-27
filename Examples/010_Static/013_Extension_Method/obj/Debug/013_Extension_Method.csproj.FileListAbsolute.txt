@@ -1,0 +1,6 @@
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\013_Extension_Method\bin\Debug\013_Extension_Method.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\013_Extension_Method\bin\Debug\013_Extension_Method.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\013_Extension_Method\bin\Debug\013_Extension_Method.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\013_Extension_Method\obj\Debug\013_Extension_Method.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\013_Extension_Method\obj\Debug\013_Extension_Method.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\013_Extension_Method\obj\Debug\013_Extension_Method.pdb

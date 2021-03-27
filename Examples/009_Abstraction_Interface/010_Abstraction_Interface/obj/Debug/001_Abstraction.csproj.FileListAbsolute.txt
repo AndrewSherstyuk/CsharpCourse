@@ -1,0 +1,18 @@
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.exe.config
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.exe
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.pdb
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\001_Abstraction.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\010_Abstraction_Interface.exe
+D:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\010_Abstraction_Interface.pdb
+E:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.exe.config
+E:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.exe
+E:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.pdb
+E:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\001_Abstraction.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\010_Abstraction_Interface.exe
+E:\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\010_Abstraction_Interface.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\bin\Debug\010_Abstraction_Interface.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\001_Abstraction.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\010_Abstraction_Interface.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\010_Абстракция и интерфейсы\010_Abstraction_Interface\010_Abstraction_Interface\obj\Debug\010_Abstraction_Interface.pdb

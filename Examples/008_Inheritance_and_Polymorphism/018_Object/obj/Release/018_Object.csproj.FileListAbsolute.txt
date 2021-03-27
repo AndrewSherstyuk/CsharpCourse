@@ -1,0 +1,6 @@
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\018_Object\bin\Release\018_Object.exe.config
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\018_Object\bin\Release\018_Object.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\018_Object\bin\Release\018_Object.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\018_Object\obj\Release\018_Object.csproj.CoreCompileInputs.cache
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\018_Object\obj\Release\018_Object.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\018_Object\obj\Release\018_Object.pdb

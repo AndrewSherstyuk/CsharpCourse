@@ -1,0 +1,10 @@
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\bin\Debug\024_Operators.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\bin\Debug\024_Operators.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\bin\Debug\024_Operators.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\obj\Debug\024_Operators.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\obj\Debug\024_Operators.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\bin\Debug\024_Operators.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\bin\Debug\024_Operators.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\bin\Debug\024_Operators.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\obj\Debug\024_Operators.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\024_Operators\obj\Debug\024_Operators.pdb

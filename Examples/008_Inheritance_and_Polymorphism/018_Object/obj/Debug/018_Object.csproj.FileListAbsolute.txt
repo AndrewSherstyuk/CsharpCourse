@@ -1,0 +1,10 @@
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\bin\Debug\018_Object.exe.config
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\bin\Debug\018_Object.exe
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\bin\Debug\018_Object.pdb
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\obj\Debug\018_Object.exe
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\obj\Debug\018_Object.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\bin\Debug\018_Object.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\bin\Debug\018_Object.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\bin\Debug\018_Object.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\obj\Debug\018_Object.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\018_Object\obj\Debug\018_Object.pdb

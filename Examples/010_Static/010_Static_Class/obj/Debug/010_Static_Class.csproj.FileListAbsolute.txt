@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\bin\Debug\010_Static_Class.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\bin\Debug\010_Static_Class.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\bin\Debug\010_Static_Class.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\obj\Debug\010_Static_Class.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\obj\Debug\010_Static_Class.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\obj\Debug\010_Static_Class.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\bin\Debug\010_Static_Class.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\bin\Debug\010_Static_Class.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\bin\Debug\010_Static_Class.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\obj\Debug\010_Static_Class.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\obj\Debug\010_Static_Class.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\010_Static_Class\obj\Debug\010_Static_Class.pdb

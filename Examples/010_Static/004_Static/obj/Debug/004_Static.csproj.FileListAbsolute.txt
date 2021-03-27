@@ -1,0 +1,5 @@
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\004_Static\bin\Debug\004_Static.exe.config
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\004_Static\bin\Debug\004_Static.exe
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\004_Static\bin\Debug\004_Static.pdb
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\004_Static\obj\Debug\004_Static.exe
+D:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\004_Static\obj\Debug\004_Static.pdb

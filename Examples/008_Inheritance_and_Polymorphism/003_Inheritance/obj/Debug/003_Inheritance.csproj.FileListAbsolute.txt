@@ -1,0 +1,16 @@
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.exe.config
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.exe
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.pdb
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.exe
+D:\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.exe.config
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\003_Inheritance\bin\Debug\003_Inheritance.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.csproj.CoreCompileInputs.cache
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\003_Inheritance\obj\Debug\003_Inheritance.pdb

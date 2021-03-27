@@ -1,0 +1,5 @@
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\025_Operators\bin\Debug\025_Operators.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\025_Operators\bin\Debug\025_Operators.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\025_Operators\bin\Debug\025_Operators.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\025_Operators\obj\Debug\025_Operators.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\025_Operators\obj\Debug\025_Operators.pdb

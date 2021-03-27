@@ -1,0 +1,12 @@
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\016_Object\bin\Debug\016_Object.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\016_Object\bin\Debug\016_Object.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\016_Object\bin\Debug\016_Object.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\016_Object\obj\Debug\016_Object.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\009_Наследование и полиморфизм\009_Inheritance_and_Polymorphism\016_Object\obj\Debug\016_Object.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\bin\Debug\016_Object.exe.config
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\bin\Debug\016_Object.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\bin\Debug\016_Object.pdb
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\obj\Debug\015_Object.csprojAssemblyReference.cache
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\obj\Debug\015_Object.csproj.CoreCompileInputs.cache
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\obj\Debug\016_Object.exe
+D:\C#Course\Examples\008_Inheritance_and_Polymorphism\016_Object\obj\Debug\016_Object.pdb

@@ -1,0 +1,5 @@
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\022_Nested\bin\Debug\022_Nested.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\022_Nested\bin\Debug\022_Nested.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\022_Nested\bin\Debug\022_Nested.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\022_Nested\obj\Debug\022_Nested.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\022_Nested\obj\Debug\022_Nested.pdb

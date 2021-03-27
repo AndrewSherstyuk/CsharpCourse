@@ -1,0 +1,10 @@
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\bin\Debug\017_Nested.exe.config
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\bin\Debug\017_Nested.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\bin\Debug\017_Nested.pdb
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\obj\Debug\017_Nested.exe
+E:\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\obj\Debug\017_Nested.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\bin\Debug\017_Nested.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\bin\Debug\017_Nested.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\bin\Debug\017_Nested.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\obj\Debug\017_Nested.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\011_Статические классы и методы\011_Static\017_Nested\obj\Debug\017_Nested.pdb
