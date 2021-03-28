@@ -37,7 +37,6 @@ namespace Task2
         public void ChooseOperation()
         {
             Console.WriteLine("Press 'P' to play,'R' to record or any other button to exit");
-
             string button = Console.ReadLine();
 
             switch (button)
@@ -66,12 +65,12 @@ namespace Task2
 
             switch (button)
             {
-                case string c when c == "P" || c == "p":
+                case string b when b == "P" || b == "p":
                     {
                         ((IPlayable)this).Pause();
                         break;
                     }
-                case string c when c == "S" || c == "s":
+                case string b when b == "S" || b == "s":
                     {
                         ((IPlayable)this).Stop();
                         break;
@@ -86,18 +85,16 @@ namespace Task2
         void IPlayable.Pause()
         {
             Console.WriteLine("Playing is paused. Press 'R' to resume, 'S' to stop or any other button to exit");
-
             button = Console.ReadLine();
 
             switch (button)
             {
-
-                case string c when c == "R" || c == "r":
+                case string b when b == "R" || b == "r":
                     {
                         ((IPlayable)this).Play();
                         break;
                     }
-                case string c when c == "S" || c == "s":
+                case string b when b == "S" || b == "s":
                     {
                         ((IPlayable)this).Stop();
                         break;
@@ -112,13 +109,11 @@ namespace Task2
         void IPlayable.Stop()
         {
             Console.WriteLine("Playing is stopped. Press 'C' to select operation or any other key to exit");
-
             button = Console.ReadLine();
 
             switch (button)
             {
-
-                case string c when c == "C" || c == "c":
+                case string b when b == "C" || b == "c":
                     {
                         ChooseOperation();
                         break;
@@ -137,12 +132,12 @@ namespace Task2
 
             switch (button)
             {
-                case string c when c == "P" || c == "p":
+                case string b when b == "P" || b == "p":
                     {
                         ((IRecordable)this).Pause();
                         break;
                     }
-                case string c when c == "S" || c == "s":
+                case string b when b == "S" || b == "s":
                     {
                         ((IRecordable)this).Stop();
                         break;
@@ -157,18 +152,16 @@ namespace Task2
         void IRecordable.Pause()
         {
             Console.WriteLine("Recording is paused. Press 'R' to resume, 'S' to stop or any other button to exit");
-
             button = Console.ReadLine();
 
             switch (button)
             {
-
-                case string c when c == "R" || c == "r":
+                case string b when b == "R" || b == "r":
                     {
                         ((IRecordable)this).Record();
                         break;
                     }
-                case string c when c == "S" || c == "s":
+                case string b when b == "S" || b == "s":
                     {
                         ((IRecordable)this).Stop();
                         break;
@@ -183,13 +176,11 @@ namespace Task2
         void IRecordable.Stop()
         {
             Console.WriteLine("Recording is stopped. Press 'C' to select operation or any other key to exit");
-
             button = Console.ReadLine();
 
             switch (button)
             {
-
-                case string c when c == "C" || c == "c":
+                case string b when b == "C" || b == "c":
                     {
                         ChooseOperation();
                         break;
