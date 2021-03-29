@@ -1,0 +1,11 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\bin\Debug\004_Structure.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\bin\Debug\004_Structure.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\bin\Debug\004_Structure.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\obj\Debug\004_Structure.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\obj\Debug\004_Structure.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\bin\Debug\004_Structure.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\bin\Debug\004_Structure.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\bin\Debug\004_Structure.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\obj\Debug\004_Structure.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\obj\Debug\004_Structure.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\004_Structure\obj\Debug\004_Structure.pdb

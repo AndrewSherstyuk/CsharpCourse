@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\006_GarbageCollector\bin\Debug\006_GarbageCollector.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\006_GarbageCollector\bin\Debug\006_GarbageCollector.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\006_GarbageCollector\bin\Debug\006_GarbageCollector.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\006_GarbageCollector\obj\Debug\006_GarbageCollector.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\006_GarbageCollector\obj\Debug\006_GarbageCollector.pdb

@@ -1,0 +1,16 @@
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.exe.config
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.exe
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.pdb
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.exe
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.pdb
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.exe.config
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.pdb
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\bin\Debug\010_Exceptions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\010_Exceptions\obj\Debug\010_Exceptions.pdb

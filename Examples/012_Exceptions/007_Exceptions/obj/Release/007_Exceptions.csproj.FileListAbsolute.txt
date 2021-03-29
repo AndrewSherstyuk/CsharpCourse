@@ -1,0 +1,5 @@
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Release\007_Exceptions.exe.config
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Release\007_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Release\007_Exceptions.pdb
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Release\007_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Release\007_Exceptions.pdb

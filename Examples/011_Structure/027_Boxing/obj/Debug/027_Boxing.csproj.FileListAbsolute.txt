@@ -1,0 +1,6 @@
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\027_Boxing\bin\Debug\027_Boxing.exe.config
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\027_Boxing\bin\Debug\027_Boxing.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\027_Boxing\bin\Debug\027_Boxing.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\027_Boxing\obj\Debug\027_Boxing.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\027_Boxing\obj\Debug\027_Boxing.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\027_Boxing\obj\Debug\027_Boxing.pdb

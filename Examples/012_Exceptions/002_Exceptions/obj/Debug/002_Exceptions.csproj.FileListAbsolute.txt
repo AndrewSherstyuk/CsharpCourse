@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\obj\Debug\002_Exceptions.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\bin\Debug\002_Exceptions.exe.config
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\bin\Debug\002_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\bin\Debug\002_Exceptions.pdb
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\obj\Debug\002_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\obj\Debug\002_Exceptions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\bin\Debug\002_Exceptions.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\bin\Debug\002_Exceptions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\bin\Debug\002_Exceptions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\obj\Debug\002_Exceptions.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\obj\Debug\002_Exceptions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\002_Exceptions\obj\Debug\002_Exceptions.pdb

@@ -1,0 +1,15 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\obj\Debug\005_Structure.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\obj\Debug\005_Structure.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.exe.config
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\obj\Debug\005_Structure.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\obj\Debug\005_Structure.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\bin\Debug\005_Structure.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\obj\Debug\005_Structure.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\005_Structure\obj\Debug\005_Structure.pdb

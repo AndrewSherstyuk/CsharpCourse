@@ -1,0 +1,17 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.exe.config
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\bin\Debug\017_Enums.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\017_Enums\obj\Debug\017_Enums.pdb

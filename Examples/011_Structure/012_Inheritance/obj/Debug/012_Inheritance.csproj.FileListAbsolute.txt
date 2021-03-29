@@ -1,0 +1,12 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\bin\Debug\012_Inheritance.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\bin\Debug\012_Inheritance.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\bin\Debug\012_Inheritance.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\obj\Debug\012_Inheritance.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\obj\Debug\012_Inheritance.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\obj\Debug\012_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\bin\Debug\012_Inheritance.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\bin\Debug\012_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\bin\Debug\012_Inheritance.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\obj\Debug\012_Inheritance.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\obj\Debug\012_Inheritance.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\012_Inheritance\obj\Debug\012_Inheritance.pdb

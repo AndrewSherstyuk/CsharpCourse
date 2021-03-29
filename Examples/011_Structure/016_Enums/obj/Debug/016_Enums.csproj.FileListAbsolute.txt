@@ -1,0 +1,18 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.exe.config
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\bin\Debug\016_Enums.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\016_Enums\obj\Debug\016_Enums.pdb

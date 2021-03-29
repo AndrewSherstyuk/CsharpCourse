@@ -1,0 +1,6 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\014_Nested\bin\Debug\014_Nested.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\014_Nested\bin\Debug\014_Nested.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\014_Nested\bin\Debug\014_Nested.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\014_Nested\obj\Debug\014_Nested.csprojAssemblyReference.cache
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\014_Nested\obj\Debug\014_Nested.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\014_Nested\obj\Debug\014_Nested.pdb

@@ -1,0 +1,5 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\015_Nested\bin\Debug\015_Nested.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\015_Nested\bin\Debug\015_Nested.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\015_Nested\bin\Debug\015_Nested.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\015_Nested\obj\Debug\015_Nested.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\015_Nested\obj\Debug\015_Nested.pdb

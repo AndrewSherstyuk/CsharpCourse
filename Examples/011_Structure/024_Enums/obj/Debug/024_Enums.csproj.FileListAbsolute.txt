@@ -1,0 +1,6 @@
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\024_Enums\bin\Debug\024_Enums.exe.config
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\024_Enums\bin\Debug\024_Enums.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\024_Enums\bin\Debug\024_Enums.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\024_Enums\obj\Debug\024_Enums.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\024_Enums\obj\Debug\024_Enums.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\024_Enums\obj\Debug\024_Enums.pdb

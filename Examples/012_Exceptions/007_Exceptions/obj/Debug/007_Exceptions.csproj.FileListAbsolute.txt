@@ -1,0 +1,15 @@
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.exe.config
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.exe
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.pdb
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Debug\007_Exceptions.exe
+D:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Debug\007_Exceptions.pdb
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.exe.config
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.pdb
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Debug\007_Exceptions.exe
+E:\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Debug\007_Exceptions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\bin\Debug\007_Exceptions.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Debug\007_Exceptions.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\013_Исключительные ситуации\013_Exceptions\007_Exceptions\obj\Debug\007_Exceptions.pdb

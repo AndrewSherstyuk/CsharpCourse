@@ -1,0 +1,16 @@
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.exe.config
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.pdb
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.exe
+D:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.exe.config
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.pdb
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.exe
+E:\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\bin\Debug\006_Structure.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\012_Структуры. Перечисления\012_Structure\006_Structure\obj\Debug\006_Structure.pdb

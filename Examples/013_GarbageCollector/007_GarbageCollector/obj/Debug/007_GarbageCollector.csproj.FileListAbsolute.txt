@@ -1,0 +1,12 @@
+E:\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\bin\Debug\007_GarbageCollector.exe.config
+E:\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\bin\Debug\007_GarbageCollector.exe
+E:\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\bin\Debug\007_GarbageCollector.pdb
+E:\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\obj\Debug\007_GarbageCollector.csprojAssemblyReference.cache
+E:\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\obj\Debug\007_GarbageCollector.exe
+E:\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\obj\Debug\007_GarbageCollector.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\bin\Debug\007_GarbageCollector.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\bin\Debug\007_GarbageCollector.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\bin\Debug\007_GarbageCollector.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\obj\Debug\007_GarbageCollector.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\obj\Debug\007_GarbageCollector.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Базовый курс по С#\014_Сборщик мусора\014_GarbageCollector\007_GarbageCollector\obj\Debug\007_GarbageCollector.pdb
