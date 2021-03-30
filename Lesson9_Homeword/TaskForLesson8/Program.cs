@@ -10,13 +10,13 @@ namespace TaskForLesson8
     {
         static void Main(string[] args)
         {
-            Employee e1 = new Workman("Johnson", 35, 1550.70, "Engineering");
-            Employee e2 = new Workman("Kohl", 24, 1830.55, "Support");
-            Employee e3 = new Workman("Barns", 48, 1658.32, "Support");
-            Employee e4 = new Workman("Nikolsky", 52, 2350.60, "Engineering");
+            Employee e1 = new Workman("Johnson", 35, 1550.70m, "Engineering");
+            Employee e2 = new Workman("Kohl", 24, 1830.55m, "Support");
+            Employee e3 = new Workman("Barns", 48, 1658.32m, "Support");
+            Employee e4 = new Workman("Nikolsky", 52, 2350.60m, "Engineering");
 
-            Employee e5 = new Director("Willis", 33, 3500.00, (Workman)e1, (Workman)e3);
-            Employee e6 = new Director("Doe", 38, 3880.00, (Workman)e2, (Workman)e4);
+            Employee e5 = new Director("Willis", 33, 3500.00m, (Workman)e1, (Workman)e3);
+            Employee e6 = new Director("Doe", 38, 3880.00m, (Workman)e2, (Workman)e4);
 
             Employee[] employees = new Employee[] { e1, e2, e6, e4, e5, e3 };
 
@@ -52,9 +52,9 @@ namespace TaskForLesson8
     {
         public string Name { get; set; }
         public int Age { get; set; }
-        public double Salary { get; set; }
+        public decimal Salary { get; set; }
 
-        public Employee(string n, int a, double s)
+        public Employee(string n, int a, decimal s)
         {
             Name = n;
             Age = a;
@@ -71,7 +71,7 @@ namespace TaskForLesson8
     {
         public string Department { get; set; }
 
-        public Workman(string n, int a, double s, string d) : base(n, a, s)
+        public Workman(string n, int a, decimal s, string d) : base(n, a, s)
         {
             Department = d;
         }
@@ -87,7 +87,7 @@ namespace TaskForLesson8
     {
         public Workman[] Workmen { get; set; }
 
-        public Director(string n, int a, double s, params Workman[] w) : base(n, a, s)
+        public Director(string n, int a, decimal s, params Workman[] w) : base(n, a, s)
         {
             Workmen = w;
         }
@@ -109,7 +109,7 @@ namespace TaskForLesson8
         {
             foreach(Employee e in employees1)
             {
-                e.Salary += e.Salary * changeRate / 100;
+                e.Salary += e.Salary * changeRate / 100;                
             }
         }
 
