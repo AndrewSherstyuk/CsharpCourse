@@ -10,11 +10,11 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            MyDocument myDoc = new MyDocument();
+            MyDocument doc1 = new MyDocument();
 
-            myDoc.Headline();
-            myDoc.DocumentContent();
-            myDoc.Footer();
+            doc1.Headline();
+            doc1.DocumentContent();
+            doc1.Footer();
 
             Console.ReadKey();
         }

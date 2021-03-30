@@ -10,7 +10,7 @@ namespace _009_Interfaces
         static void Main()
         {
             MyClass myClass = new MyClass();
-            myClass.();
+            myClass.MethodIntef1();
 
             // На экземпляре myClass нету методов интерфейсов.
             //myClass.Method();
