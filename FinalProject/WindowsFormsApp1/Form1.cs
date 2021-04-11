@@ -57,6 +57,7 @@ namespace WindowsFormsApp1
 
             Helpers.ShowHider(FormBoxes, false);
             Helpers.ShowHider(FormLabels, false);
+            Helpers.ShowHider(label57, false);
 
             Year = DateTime.Now.Year;
             Month = DateTime.Now.Month;
@@ -106,11 +107,13 @@ namespace WindowsFormsApp1
                 label48.Text = String.Empty;
                 button4.Visible = false;
                 button5.Enabled = true;
+                button5.Text = "Load Report is available";
 
                 Helpers.CellCleaner(Boxes);
 
                 Helpers.ShowHider(FormBoxes, false);
                 Helpers.ShowHider(FormLabels, false);
+                Helpers.ShowHider(label57, false);
             }
 
             if (richTextBox43.Text == "" || richTextBox44.Text == "")
@@ -135,6 +138,7 @@ namespace WindowsFormsApp1
             label46.Text = String.Empty;
 
             Helpers.CellCleaner(Boxes);
+            Helpers.ShowHider(FormBoxes, false);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -186,7 +190,7 @@ namespace WindowsFormsApp1
                 {
                     if (Labels[i].Text != String.Empty)
                     {
-                        sw.WriteLine($"{Labels[i].Text}_{Boxes[i].Text}");
+                        sw.WriteLine($"{Labels[i].Text}\n{Boxes[i].Text}");
                     }
                 }
 
@@ -218,22 +222,39 @@ namespace WindowsFormsApp1
 
                 Helpers.CellCleaner(Boxes);
 
-                foreach (string f in fileLines)
+                for (int i = 0; i < fileLines.Length; i++)
                 {
-                    for (int i = 0; i < 42; i++)
+                    for (int j = 0; j < 42; j++)
                     {
-                        if (f == Labels[i].Text)
+                        if (fileLines[i] == Labels[j].Text)
                         {
-                            Boxes[i].Text = f;
+                            Boxes[j].Text = fileLines[i+1];
                         }
                     }
                 }
 
+                int g = fileLines.Length - 1;
+
+                for (int k = FormBoxes.Length - 1; k == 0 ; k--)
+                {
+                    FormBoxes[k].Text = fileLines[g];
+                    g--;
+                }
+
+                Helpers.ShowHider(label57, true);
+
+                label57.Text = "The Report is successfully loaded";
+                label57.ForeColor = System.Drawing.Color.Green;
+                button5.Text = "Report loaded";
+                button5.Enabled = false;
                 Helpers.ShowHider(FormBoxes, true);
                 Helpers.ShowHider(FormLabels, true);
             }
             catch (FileNotFoundException ex)
             {
+                button5.Text = "Report not found";
+                Helpers.ShowHider(label57, true);
+                label57.ForeColor = System.Drawing.Color.Red;
                 label57.Text = "Cannot find Report for this Year/Month";
                 button5.Enabled = false;
             }
@@ -275,8 +296,9 @@ namespace WindowsFormsApp1
 
                 for (int i = (int)firstDay.DayOfWeek - 1; i < DateTime.DaysInMonth(Year, Month) + (int)firstDay.DayOfWeek - 1; i++)
                 {
+                    Labels[i].Text = $"{day}.{Month}.{Year}";
                     DateTime dt = new DateTime(Year, Month, day);
-                    Labels[i].Text = dt.ToString("d");
+                    
 
                     if (dt.DayOfWeek == DayOfWeek.Saturday || dt.DayOfWeek == DayOfWeek.Sunday)
                     {
