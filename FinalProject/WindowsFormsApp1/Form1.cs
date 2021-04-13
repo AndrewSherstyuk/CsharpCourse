@@ -211,7 +211,6 @@ namespace WindowsFormsApp1
 
                 Year = int.Parse(fileLines[0]);
                 Month = int.Parse(fileLines[1]);
-
                 Path = $"{Application.StartupPath}{Month}_{Year}_Report.txt";
 
                 GridHandler gd = new GridHandler(Labels, Boxes, Year, Month);
